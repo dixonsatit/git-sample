@@ -9,5 +9,11 @@
   <body>
 
   <p> รายงาน</p>
+
+    <table>
+      <tr>
+        <td>ทดสอบ</td>
+      </tr>
+    </table>
   </body>
 </html>
