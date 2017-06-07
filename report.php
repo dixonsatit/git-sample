@@ -7,6 +7,7 @@
     <link href="css/style.css" rel="stylesheet">
   </head>
   <body>
-  <h1>Report</h1>
+
+  <p> รายงาน</p>
   </body>
 </html>
